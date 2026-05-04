@@ -1,0 +1,1 @@
+This repository contains my work for Assignment 9. The file included is python_module9assignment.py. In this assignment, I practiced data analysis using Pandas, including loading CSV data, filtering DataFrames, handling missing values, and generating business insights.
